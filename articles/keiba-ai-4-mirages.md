@@ -3,11 +3,11 @@ title: "競馬AIでROI 177%を出して、それが幻だと証明するのに2�
 emoji: "🐴"
 type: "tech"
 topics: ["機械学習", "Python", "データ分析", "統計"]
-published: false
+published: true
 ---
 
 :::message
-この記事は、有料本[『競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話』](BOOK_URL_PLACEHOLDER)のダイジェストです。記事だけでも完結して読めます。
+この記事は、有料本[『競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話』](https://zenn.dev/marunage_kacho/books/keiba-ai-verification)のダイジェストです。記事だけでも完結して読めます。
 :::
 
 ## TL;DR
@@ -86,6 +86,6 @@ published: false
 
 詳細 — 各幻影の完全な解剖、αというKPI設計、7ヶ月間サイレントに死んでいた収集パイプラインの話、裁判記録に残る「本当に勝った人」の条件の定量分析 — は本にまとめました。
 
-📘 [競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話](BOOK_URL_PLACEHOLDER)(¥500)
+📘 [競馬AIは市場に勝てるのか — 18,777レースで検証して負けた話](https://zenn.dev/marunage_kacho/books/keiba-ai-verification)(¥500)
 
 あなたの評価データが、未来を知りませんように。
