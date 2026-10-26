@@ -3,7 +3,7 @@ title: "Haiku 5.5 と Sonnet に同じ報告を5回ずつ書かせたら、安�
 emoji: "🧪"
 type: "tech"
 topics: ["AI", "ClaudeCode", "LLM", "生成AI"]
-published: false
+published: true
 ---
 
 先週、Claude Code で Haiku 5.5 が使えるようになった日に、Sonnet と同じ仕事をさせて「安い方が正確だった」と X に書きました。
@@ -26,7 +26,7 @@ published: false
 
 | | Haiku 5.5 | Sonnet |
 |---|---|---|
-| 時間（1回あたり） | 12〜18秒 | 14〜17秒 |
+| 時間（1回あたり） | 12〜18秒 | 14〜17秒（CSVだけ渡した回は30秒） |
 | 書く量 | Sonnet の3〜5倍 | 短い |
 | 間違い | 5回中 0回 | 5回中 5回 |
 
